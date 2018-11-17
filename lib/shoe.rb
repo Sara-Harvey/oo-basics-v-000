@@ -6,8 +6,8 @@ class Shoe
     @brand = brand
   end
  
-  #def turn_page
-   # puts "Flipping the page...wow, you read fast!"
-  #end
+  def cobble
+   puts "The shoe has been repaired."
+  :condition = "new"
  
 end
